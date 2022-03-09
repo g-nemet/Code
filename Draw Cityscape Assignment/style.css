@@ -1,0 +1,11 @@
+html {
+    padding-top: 90px;
+}
+
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid grey;
+}
